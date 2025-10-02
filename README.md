@@ -1,2 +1,2 @@
-# E-Commerce
-Ecommerce is an application where indivuduals can buy the products with at own location and can order
+#ToDo List
+Todo list is an application where it can helps for  storing the items and note  some important content
